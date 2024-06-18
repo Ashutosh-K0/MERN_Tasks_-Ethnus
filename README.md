@@ -13,7 +13,7 @@ The source code for this project is available in this repository. Feel free to e
 
 The live version of the application is deployed and can be accessed at the following link:
 
-[Deployment Link](#)
+[Deployment Link](https://ashutosh-k0.github.io/MERN_Tasks_Ethnus/Ethnus_MERN/)
 
 
 
