@@ -7,7 +7,7 @@ This project is the culmination of the tasks and challenges assigned by our inst
 
 The source code for this project is available in this repository. Feel free to explore the code, and any feedback or contributions are welcome.
 
-[GitHub Repository Link](#)
+[GitHub Repository Link](#https://github.com/Ashutosh-K0/MERN_Tasks_-Ethnus)
 
 ## Deployment
 
